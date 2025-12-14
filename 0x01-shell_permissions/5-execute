@@ -1,4 +1,3 @@
 #!/bin/bash
-# Add execute permission of the owner of t file hello
-
+# Add execute permission of the owner of the file hello
 chmod u+x hello
