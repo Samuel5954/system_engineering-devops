@@ -1,2 +1,4 @@
-#!/bin/bash
-#Ads execute permission to the owner of the file named 'hello'
+#!/usr/bin/env bash
+# Add execute permission of the owner of t file hello
+
+chmod u+x hello
