@@ -1,0 +1,15 @@
+total 44
+drwxr-xr-x 1 ray ray 306 Dec 18 21:08 .
+drwxr-xr-x 1 ray ray 212 Dec 18 21:02 ..
+-rwxr-xr-x 1 ray ray  32 Dec 18 20:53 0-hello_world
+-rw-r--r-- 1 ray ray  28 Dec 17 23:36 1-confused_smiley
+-rw-r--r-- 1 ray ray  28 Dec 17 23:36 2-hellofile
+-rw-r--r-- 1 ray ray  39 Dec 17 23:36 3-twofiles
+-rw-r--r-- 1 ray ray  29 Dec 18 20:53 4-lastlines
+-rw-r--r-- 1 ray ray  29 Dec 17 23:36 5-firstlines
+-rw-r--r-- 1 ray ray  40 Dec 18 20:53 6-third_line
+-rw-r--r-- 1 ray ray  69 Dec 18 21:01 7-file
+-rwxr-xr-x 1 ray ray  36 Dec 18 21:08 8-cwd_state
+-rw-r--r-- 1 ray ray  12 Dec 18 21:02 *\'"Best School"\'*\\?***:)
+-rw-r--r-- 1 ray ray   0 Dec 18 21:08 ls_cwd_content
+-rw-r--r-- 1 ray ray  45 Dec 18 20:53 README.md
